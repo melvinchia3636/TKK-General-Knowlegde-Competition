@@ -1,0 +1,548 @@
+{
+    "chapterid": 2352334,
+    "wholepageItemDTOList": [
+        {
+            "itemid": 1084636,
+            "wholepageDTOList": [
+                {
+                    "contentType": 5,
+                    "id": 2808064,
+                    "content": "引言",
+                    "contentnodeid": 1084636,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:12",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084637,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2813980,
+                            "content": "<p style=\"text-align:center\">${resource_570707}</p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚位于赤道北缘，处于东西方航路要冲。全国分为东马来西亚（东马）和西马来西亚（西马）两个部分，两者之间隔着南中国海。西马半岛共有</span>11<span>州，北依泰国，南临新加坡。东马则有沙巴（</span>Sabah<span>）和砂拉越</span> <span>（</span> Sarawak<span>）两州，与印尼的加里曼丹和汶莱为邻。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;公元初马来半岛有羯荼、狼牙修等古国。</span>15<span>世纪初的马六甲（</span>Melaka<span>，中国古籍称为&ldquo;满刺加&rdquo;）是个强大的王国，也是个举世瞩目的贸易海港。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;自</span>16<span>世纪起，马六甲先后沦为葡萄牙、荷兰和英国的殖民地。</span>1874<span>年以后，英国更把势力伸展到整个马来半岛。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;至于东马，砂拉越自</span>19<span>世纪中叶，便受英国人的拉惹王朝所统治，长达</span>105 <span>年。到了</span>1946<span>年才让渡给英国，沦为英国殖民地。</span></span></span></span><span><span><span><span>另一方面，</span>1870<span>年英国的渣打公司，也先后与汶莱苏丹及苏禄苏丹签订割让条约，取得了沙巴的主权，并于</span>1946<span>年把统辖权拱手让给英国，成为英殖民地。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>1957<span>年</span>8<span>月</span>31<span>日马来亚赢得独立，成立马来亚联合邦；</span>1963<span>年</span>9<span>月</span>16<span>日，马来亚联合了新加坡、砂拉越和沙巴成立马来西亚。</span>1965<span>年，新加坡脱离马来西亚。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚幅员辽阔，蕴藏着丰富的矿产和石油；还有延绵不绝的沿海区域，渔产取之不尽；境内覆盖的热带雨林，则提供了丰富的林业资源。它得天独厚，既无酷暑也无严寒，更无台风、地震、火山爆发等自然灾害的侵袭。而这里的人民也没有辜负上天赐予的一切，他们在肥沃的土地上开荒拓土，辛勤劳动，发展工农矿业，来建立美好的家园。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>马来西亚是多元民族国家，华人作为第二大族群，是除了中国和新加坡外华人比例最高的国家。华人在当地享受着温饱宽裕的生活，在多元文化社会中和其他民族和谐相处，早已是这个大家庭的一分子了；但他们也依然坚守着从祖辈传承下来的传统习俗，可以说是海外最具中华文化特色的华人社会。</span></span></span></p>",
+                            "type": 12,
+                            "parentid": 2808064,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 570707,
+                                    "coursepageid": 2813980,
+                                    "resourceid": 436040,
+                                    "width": 319,
+                                    "height": 365,
+                                    "location": "resources/834427/2021042117213585.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/2021042117213585.jpg",
+                                    "contentSize": 202914,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "itemid": 1084638,
+            "wholepageDTOList": [
+                {
+                    "contentType": 5,
+                    "id": 2808065,
+                    "content": "华人移民简史",
+                    "contentnodeid": 1084638,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:12",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084639,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814000,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;华人最早移民马来半岛，大抵可追溯到</span>15<span>世纪初的马六甲王朝。</span> 1408<span>年，当明代航海家郑和第二次下西洋时，他的随从费信曾载述道：</span><span>&ldquo;（满刺加）男女身肤黑漆，间有白者，唐人种也。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;到了葡萄牙统治马六甲（</span>1511-1641<span>）初期，马六甲已有一个中国村（</span>Kampong China<span>）；而在荷兰人统辖马六甲时（</span>1641-1824<span>），由于华人人口越来越多，荷兰政府先后委任了七名甲必丹（</span>Kapitan<span>，指华人领袖或头目）来管理华人事务。那时候的华人，大多原籍福建漳州。</span><o><img alt=\"\" src=\"null\" /></o></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><o></o><span>&nbsp; &nbsp; &nbsp; &nbsp;</span><o><span>打从那时起，华人已零星地移居到东南亚经商，有的还选择了长期居留。一些华人和当地妇女通婚，其混血后裔被称为土生华人</span> <span>（</span>Peranakan<span>），或称海峡华人（</span>The Straits Chinese<span>）。土生华人男性也俗称&ldquo;峇峇&rdquo;（</span>Babas<span>），女性则称&ldquo;娘惹&rdquo;（</span>Nyonyas<span>）。这个特殊族群受到马来人、华人及西方人士的影响，具有驳杂的文化形态，如生活方式接近马来人与西方人，但却保留非常传统的华人风俗习惯，而语言也掺杂了福建话、马来语和英语。</span></o></span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td style=\"text-align: justify;\">${resource_570779}</td><td><p style=\"text-align: justify;\"><span><span><span><span><span><span>峇峇与娘惹是在一个特定时代所产生的独特族群。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;战前的海峡华人，无论在商界、航运界、金融界或专业领域都出类拔萃。</span>1960<span>年代以前，峇峇娘惹在马来亚拥有土著身份，但后来被政府归类为华人。在二战后，华人与当地人通婚的情形大量减少，后来的混血儿也不再自称为峇峇。因此峇峇族群逐渐没落，迄今仅有少数居住在马六甲和槟城（</span>Pulau Pinang<span>）。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>1840<span>年，鸦片战争打开了清廷锁国大门，贫穷和战乱迫使许多华南沿海居民离乡背井，远赴南洋谋生。而当时马来亚还是一个人烟稀少、荒凉落后的地方，英殖民政府试图开拓荒土，因此就从印度和中国输入大量的廉价劳工。有迹象显示，早在</span>19<span>世纪初，槟城已输入了中国契约华工。有人甚至被半哄半骗，成了&ldquo;猪仔&rdquo;被贩卖至这里。对于未知的土地与未来，这些自愿和非自愿的&ldquo;新客&rdquo;（早期定居者对后来者的称呼）只能寄托于命运。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在&ldquo;推力&rdquo;与&ldquo;拉力&rdquo;的牵引下，马来亚华人移民掀起了一波又一波高潮。据统计，</span>1871<span>年马来半岛的华人人口为</span>10<span>万</span>5<span>千人；到了</span>1941<span>年，华人已增至</span>261<span>万</span>4<span>千人。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;直到</span>1949<span>年，中华人民共和国成立后，中国移民来马才基本停止。此后，马来亚华人人口增长，完全依赖自然出生率，而非移民。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;早期华人移民一般先在种植园和锡矿场做苦力稍有积蓄后就转向零售业、饮食业、土产收购、加工业、矿产开发、种植业甚至银行业。当时华人的行业基本上是按籍贯来划分的：福建人多从事港口贸易；海南人一般开咖啡店和餐厅；潮州人集中于种植业及土产贸易；客家人则主要开采锡矿。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;锡与橡胶，曾经是马来西亚的经济命脉，华人在胶锡的种植、发展与经营上，一直扮演着先驱与策动的角色。当年，华人还一手开发了首都吉隆坡。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;早期，吉隆坡还是个人口稀少的落后小镇，直到一位来自广东的华人领袖叶亚来开发并吸引前来采锡的华人大批涌入后，吉隆坡才逐渐地发展繁荣起来，独立后更成为国家的定都之地。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;砂拉越的华人移民，大抵滥觞于</span>19<span>世纪初年。那时期，在西部的石隆门（</span>Bau<span>）散居着一些客家人矿工，他们都是从西加里曼丹华人金矿地移居过来的。后来受到英国人的武力镇压，华人不得不改行，改种胡椒、甘蜜维生。与此同时，在砂拉越河口的古晋（</span>Kuching<span>），也有潮州人种植胡椒与甘蜜。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>19<span>世纪下半叶，随着英国人政权的巩固与疆域的扩大，吸引了更多华人移民的到来。境内几条大河流域，也由于华人的增加，经之营之，逐渐出现了大大小小的城镇。如拉让江河口的诗巫（</span>Sibu<span>）等，之所以能发展成为商埠，是得力于福建闽清人黄乃裳的开发。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>1900<span>年，他与砂拉越统治者签定协约，从中国招募农工来开发诗巫。两年间，共有三批福州人</span>1118<span>名到诗巫拓荒垦殖。此后诗巫华人人口激增，市容面目一新，所以诗巫别称&ldquo;新福州&rdquo;。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;沙巴华人的大量移民大概始于</span>1882<span>年。那一年，&ldquo;英国婆罗洲公司（简称&ldquo;公司&rdquo;）成立，试图在沙巴大事扩种烟草，需要大批劳工，于是从广东龙川、五花等地招募一批客籍人士到沙巴来，为数有</span>96<span>人，被安置在古达（</span>Kudat<span>）荒区垦殖。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;嗣后，又有广东东江紫金、惠阳、宝安、东莞及花县等地的客家人继续入境，华人人数因而激增。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;除了香港、华南及海峡殖民地以外，&ldquo;公司&rdquo;代理人更到中国北方招募华工，</span>1913<span>年，大概有</span>430<span>多名河北人抵达沙巴，定居在亚庇附近地区。&ldquo;公司&rdquo;除了给他们分配耕地外，还给予津贴金。因华工领头是山东人，所以他们的聚落也被称为&ldquo;山东村&rdquo;。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;第一次世界大战后，&ldquo;公司&rdquo;苦于劳动力严重短缺，因此制定许多有利于移民政策，以鼓励移民携眷前来定居，其中包括免费供应船票给有意前来的移民。此外，他们还可以获得耕地垦殖。新计划果然奏效，在</span>1921<span>年之后，有</span>9<span>千多名华人入境，其中绝大部分是客籍人，包括不少女性，他们大多被安置在东西岸的农地耕作。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;此外还有一大批自由移民入境沙巴。他们或在种植园成为农工，或在城市寻求工作，成为工匠或普通工人。</span>1937<span>年，自由移民的入境人数，就高达</span>7912<span>人。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;直到二战之前，远赴南洋的侨民和家乡仍然保持着紧密的联系。他们不只等待落叶归根的时机，还主动发起支持祖国的各种运动。当时，华人聚集地之一的槟城正是中国民主革命先驱孙中山在海外宣扬革命理念的重镇。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;二战期间，日军侵占了马来亚，当地华人纷纷从戎投军。这段抗日岁月也成了马来西亚华人重要的历史事件。大难当前，华人也对眼前保卫的这块土地产生浓烈的感情，成为日后选择留居此地的一大契机。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>1945<span>年，日军才刚投降，英殖民者又卷土重来。为了歼灭以马来亚共产党为首的武装力量，英政府实施了紧急状态法令，强制把华人迁入临时建立的</span>480<span>个新村里，并用铁丝网与外界隔开，严厉限制他们的行动。如今，除了城市地区，各个新村也是华人的集聚地，拥有浓厚的华人色彩，是一道独特的风景线。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>1957<span>年马来亚独立、</span>1963<span>年马来西亚成立，大多数华人对这块土地已产生情感，他们都愿意落地生根，纷纷从侨民身份转变为当地公民。</span></span></span></span><span><span><span><span>独立后百业待兴，华商们捉住了良好的商机，凭着高瞻的远见和刻苦耐劳的传统美德，逐步把投资扩张到制造业、食品加工业、房地产业、金融业等，带动了国家经济发展，也为自己立下了稳固的基业。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;人口比例不低的华人在经济上的强大，招致友族的忧虑和猜疑；在一些居心不良的政客煽动下，终在</span>1969<span>年爆发了 &ldquo;五&middot;一三&rdquo; 种族冲突事件。此后政府推出了&ldquo;新经济政策&rdquo;，试图平衡各族间的财富，增加土著的公司股权，使华人在经济发展方面有所限制。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;但大体而言，华人依然在种种挑战下寻求发展，至今在政治、经济、教育、文化各领域上的表现皆有目共睹。</span> </span></span></span></p><p style=\"text-align: justify;\">&nbsp;</p><ul><li style=\"text-align: justify;\"><i><span><span><span>孙中山于</span></span></span><span><span><span>1910</span></span></span><span><span><span>年</span></span></span><span><span><span>11</span></span></span><span><span><span>月间在马来亚的槟城开会，密议广州&ldquo;三&middot;二九&rdquo;起义，史称黄花岗起义，而在这次起义中栖牲的黄花岗</span></span></span><span><span><span>72</span></span></span><span><span><span>烈士中也有不少是马来亚华人。此外，华人人口密集的槟城也出了一位兼通中英语言及文化的学者辜鸿铭，除了获得</span></span></span><span><span><span>13</span></span></span><span><span><span>个博士学位，也是将《论语》、《中庸》翻译到西方的第一人。</span></span></span></i></li></ul>",
+                            "type": 12,
+                            "parentid": 2808065,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 570779,
+                                    "coursepageid": 2814000,
+                                    "resourceid": 436041,
+                                    "location": "resources/834427/202104211722567295.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211722567295.jpg",
+                                    "contentSize": 128264,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "itemid": 1084640,
+            "wholepageDTOList": [
+                {
+                    "contentType": 5,
+                    "id": 2808066,
+                    "content": "引言",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:12",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084641,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814003,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚华人约占全国人口的</span>25%<span>。这里奉行出生地原则，多数华人已加入当地国籍。由于战后极少有中国新移民到来，华人现在大多是土生土长的第三、四代。他们早已落地生根把这里当成祖国，并热爱着这块土地。但他们也依然保持着鲜明的华人特色，其中以拥有大中华圈外最健全的华文教育体系，最为人所称道。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;据研究所示，</span>90%<span>以上的西马华族，聚居在马来半岛西海岸的城镇，包括吉隆坡、槟城、怡保（</span>Ipoh<span>）、马六甲、新山（</span>Johor Bahru<span>）、芙蓉（</span>Seremban<span>）及巴生（</span>Klang<span>）。</span> <span>至于东马的砂拉越与沙巴，也有同样的现象。砂拉越</span>68<span>％的华族人口，集中在古晋、诗巫与美里（</span>Miri<span>）三大县区；沙巴</span>67<span>％的华人，聚居在亚庇（</span>Kota Kinabalu<span>）、山打根（</span>Sandakan<span>）及斗湖（</span>Tawau<span>）三大县内。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;当地华人的祖籍多为中国福建、广东、广西和海南四省，其中福建又以闽南人、福州人为主；广东则以广府人、潮州人、客家人最多。各籍贯华人的聚集地也非常明显例如半岛北部多福建人，广东人集中在吉隆坡、怡保等城市地区，而诗巫则是以福州人为主。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚有丰富的天然资源和辽阔的土地，因此人民拥有广大的生活空间。在这里，人们只要肯努力，要谋得生计，糊口于四方，不会有太大的困难。倘若能把握机会，富甲一方也非罕见的事。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在这个新兴的土地上，华人挥洒自如，充分利用独到眼光和勤奋个性，填满了每一个发展空间。他们有建党结社的权利，并享有宗教、教育与言论的自由。华人可以礼佛拜神祭祖，也可以庆祝传统节日、舞龙舞狮，连春节都享有两天公假。虽然在某些方面不能尽如人所愿，但华人都以整个国家与全民利益为前提，发挥容忍与包容的精神，以达致全民团结、和谐共处的目标。</span></span></span></span></p>",
+                            "type": 12,
+                            "parentid": 2808066,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": []
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808067,
+                    "content": "华人创造经济辉煌",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:12",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084642,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814022,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;华人在马来西亚经济发展中一直扮演着重要角色，涉足士农工商各行各业，其中以从商的人数最多，而商业中主要以零售业与服务业最为活跃。华人零售商经营的形式，包罗万象，从近乎绝迹的刻匾店、祭拜香店，到茶室、杂货店、中医药材店铺、汽车修理店，再到牙医诊所、会计师事务所、律师事务所以及建筑师工作室等，无一不有。两家著名的华资银行&mdash;&mdash;大众银行和丰隆银行，其分行遍布全国。不论是在喧嚣闹市或是穷乡僻壤，随处可见挂着华文招牌的商店。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在过去三四十年间，陆陆续续冒起了若干华人企业集团。目前在马来西亚的华人企业集团大约有</span>40<span>家，其中较大的有郭鹤年集团、林梧桐集团、丰隆集团、骆文秀集团、李莱生集团、陈志远集团、杨忠礼集团及郑鸿标集团等等。它们拥有浓厚的家族色彩及多元化业务，经营稳定后也逐步迈向国际市场，例如郭鹤年集团已将业务范围伸展到亚、欧、美等十多个国家。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;砂沙两州，都以农业为主要经济支柱，其中尤以棕油、橡胶、胡椒、椰子及可可等农作物，给国库带来巨大的收入。这些农作物的小园主，大部分是华族的小资产家。而受雇佣的农工，也以华人为主。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;砂沙两州丛林密布，盛产木材，成为重要资源。两州的锯木厂，业主多是华人。其产品除部分供应国内市场外，也出口、销售国外市场。因经营伐木业而致富的华族资本家比比皆是，其中佼佼者有砂拉越的张晓卿和刘会干，及沙巴的郑昭明。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;迄今，华人控制马来西亚经济命脉的说法已不太准确。在</span>70<span>年代初政府推行&ldquo;新经济政策&rdquo;，试图重新分配各族间的财富后，大大地局限了华人的经济发展。不过华人企业家仍灵活地采取各种应对之策，积极投入新的产业，总体上还是获得相当顺利的发展。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;马来西亚世界级的华人富豪不少，但那毕竟是少数。&rdquo;拉曼大学中文系教授林水檺说，&ldquo;总体而言，大部分华人在社会各阶层就业，收入高低皆有。不过，与其他族群相较，华人的经济确实比较优渥，大多都过着比较宽裕的小康生活。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;无论环境多么恶劣，华人仍有能力生存下去。不过我们依然希望可以争取到公平的待遇，因为这是人民的权利。&rdquo;马来西亚七大乡团协调委员会前任会长吴德芳表示。名列马来西亚成功企业家之一的他不无自豪地说：&ldquo;目前，华人是马来西亚缴税最多的民族。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;长期以来，华人对马来西亚经济的贡献一直备受肯定。槟城的开埠者莱特就曾写到，华人是政府唯一不必拨出费用和作出特别努力，便可以从他们身上增加收入的东方民族。</span></span></span></span><span><span><span><span>马来西亚前首相马哈迪也称赞，全靠华人的奋斗与经营，马来西亚经济才有今天的活力。</span></span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_570883}</td><td><p><span><span><span><span><span><span>从传统行业到新兴行业，从大商场到小贩摊，都有华人的足迹。</span></span></span></span></span></span></p></td></tr></tbody></table>",
+                            "type": 12,
+                            "parentid": 2808067,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 570883,
+                                    "coursepageid": 2814022,
+                                    "resourceid": 436042,
+                                    "location": "resources/834427/202104211725396920.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211725396920.jpg",
+                                    "contentSize": 214809,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808068,
+                    "content": "积极参政 社团林立",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:12",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084643,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814034,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;除了经济，马来西亚华人在政治上的表现也是可圈可点。自抗日战争后，华人的政治意识不断提高。</span>1949<span>年马来西亚华人公会（简称马华公会）成立，开启了华人涉足政治领域的新页后，几十年来参政的华人不计其数，他们多以维护本民族的利益为目标。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马华公会在</span>1955<span>年与巫统、印度国大党结成联盟，参加大选获胜，组成执政政府，并向英殖民政府申求独立，立下大功。</span>1972<span>年，联盟容纳了更多政党后所组成的国民阵线（</span>Barisan Nasional<span>），参加历届大选均获胜利，长期执政。</span></span></span></span><span><span><span><span>如今马华公会依然是马来西亚最大的华人政党，拥有多达</span>110<span>万名党员，是海外华社中数一数二的大型华人政党。</span></span></span></span></p><p><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;几十年来政坛上也出现了多个华基政党，如民政党、民主行动党（简称行动党）等。成立于</span>1968<span>年的民政党，原是反对党，在</span>1969<span>年的大选中夺得了以华人居民为多的槟城州政权。</span>1972<span>年加盟国民阵线，成为执政联盟之一员。在以后历届州选举中，民政党一直执掌槟州政权，长达</span>40<span>年，直至</span>2008<span>年，才被民主行动党所取代。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;民主行动党成立于</span>1966<span>年，提出&ldquo;马来西亚人的马来西亚&rdquo;的口号，主张种族、社会与经济平等。自创党以来，敢于仗义执言，扮演着监督政府的角色，因而获得一部分华人的支持。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;至于沙巴，以华人为基干的政党有团结党、沙巴华人公会、沙巴中华统一党、沙巴华人党及沙巴进步党；砂拉越则有砂拉越人民联合党。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;其他标榜多元种族的政党，也都有华人参与，如公正党等，共同构成华人在政治上一股重要的力量。在历届国会与州议会大选中，华裔的选票发挥了极大的作用。不但华人基干的政党候选人，因华人的投票中选，即使是标榜多元种族政党的候选人，也得力于华人投票而中选。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在马来西亚</span>2010<span>年的中央政府，共有</span>6<span>位华人出任部长，</span>9 <span>位华人担任副部长，在政府决策中占有一席之地。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>进入</span>21<span>世纪，华人参政的目的已不再是为华人利益代言。更多年轻的华人政治家抱着极大的政治热情，想要发挥华人优势，与其他民族一起共同建设马来西亚家园。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>此外，马来西亚华团成熟而独立，也是华社一股重要的力量。百余年来成立的华人社团可说是多不胜数，它们在各个时代都扮演着不同的角色。早期华团多属地缘、血缘与业缘组织，如地缘组织有福建会馆、广东会馆、潮州会馆、番禺会馆等；血缘组织如槟城李氏宗祠、马六甲赖氏宗祠；业缘则有笨珍树胶商公会、吉隆坡布业联谊会等。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_570961}</td><td><p><span><span><span><span><span><span>已有百年历史的陈氏血缘组织</span></span></span> <span><span><span>&ldquo;陈氏书院&rdquo;，是吉隆坡很有代表意义的华人文化建筑，古意盎然。</span></span></span></span></span></span></p></td></tr><tr><td>${resource_570962}</td><td><p><span><span><span><span><span><span>直到现在，许多会馆仍是华人茶余饭后、消磨时间的去处，也是组织举办活动的推动主力。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;早期社团的功能，主要联络情谊、互惠互助，并处理祭祖拜神、教育及死后的善后事宜。因此一些规模较大的社团，都有筹建寺庙、义山与学校。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;独立后的几十年间，华团在政治、经济、文化和教育各方面为华人仗义执言，代表抒发华人的心声。各华团虽不直接参加政治活动，但在各个相关课题上却力争到底，试图纠正政府的偏差决策。尤其在教育发展和文化保存方面，华团更是坚持原则。&rdquo;为华团付出许多时间和心力的吴德芳表示。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;根据马来西亚华总前任会长林玉唐在《马来西亚华团总名册》中的献辞披露，目前，全国各地共有</span>8<span>千多个华人社团，而且数量还不断地在增加之中，非常活跃的也不在少数。其中最重要的华人社团有处于核心领导地位的马来西亚中华大会堂，活跃于工商业领域的马来西亚中华工商联合会，以及致力于华教发展的董教总等。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>&ldquo;近年来由于社会、经济发展多元化，以及教育普及，马来西亚华人已经从保守迈向开放，各种团体组织的创办已超越昔日地缘、血缘和业缘组织，还扩展到宗教团体、青年会、体育会、文化组织等，至今仍是推动华人社会发展的动力。&rdquo;吴德芳说。</span></span></span></p>",
+                            "type": 12,
+                            "parentid": 2808068,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 570961,
+                                    "coursepageid": 2814034,
+                                    "resourceid": 436043,
+                                    "location": "resources/834427/202104211731495310.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211731495310.jpg",
+                                    "contentSize": 109348,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 570962,
+                                    "coursepageid": 2814034,
+                                    "resourceid": 436044,
+                                    "location": "resources/834427/202104211731549577.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211731549577.jpg",
+                                    "contentSize": 59384,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808069,
+                    "content": "华文教育体系完整 海外罕见",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084644,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814117,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚华人常常挂在嘴边的一句话，是&ldquo;再穷也不能穷教育&rdquo;。他们说，那是先辈们长久以来坚持的教育理念。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;虽然大部分早期华人移民都没有受过高深的教育，但他们知道，教育是延续文化的不二法门，也可以使下一代摆脱贫困，所以筹办教育就成了一项时代的使命。自从在此地扎根以来，他们便致力发展华文教育事业。</span></span></span></span><span><span><span>1819<span>年，华人在槟城建立第一间私塾&ldquo;五福书院&rdquo;；而第一间现代华校则是创立于</span>1904<span>年的槟城中华义学。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;自此在这块土地上发展起来的华文教育就不曾间断过，百年来后代对于祖辈们的理念更不曾动摇。</span></span></span></span><span><span><span><span>当地华社通过自力更生、坚忍奋斗，建立起一个从小学、中学到大专院校的完整教育体系，这在海外其他地方是非常罕见的。而这些大大小小的学校，全靠华社自主经营，其投入的心力财力之大，也属独一无二。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;如今，</span>1280<span>所华文小学、</span>60<span>所华文独立中学、</span>3<span>所民办学院伫立东西马各地，是当地华人引以为荣的成就。他们骄傲地说，这是马来西亚华社长期力争，甚至不惜以血泪生命来换取的成果。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;维护华文教育在马来西亚是一件艰难的任务。由于华人群体庞大，文化底蕴深厚，让政府感到压力，进而推出了一波波的教育单元化政策，给每一个时代的华教发展造成巨大的阻力。&rdquo;马来西亚华校董事联合会总会前首席执行主任莫泰熙说。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;然而，阻力越大，华人反弹力越强。他们众志成城坚守着华教，多年来毫不松懈。只因他们坚持，每个人都有选择母语的权利，也坚信语言乃是保持文化薪火不灭的种子。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;所幸马来西亚宪法赋予人民选择教育的自由，可选择就读各语文源流的学校就读。据了解，</span>90<span>％以上的马来西亚华人都愿意把子女送进华文小学，接受</span>6<span>年免费的华文小学教育。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;仅在只有</span>35<span>万华人的沙巴州，就拥有华校</span>80<span>多间，在校学生近</span>5<span>万人。有条件的马来人、印度人也开始送孩子到华校读书。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;但看似前景明朗的华文小学，其实也面对着许多棘手问题。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;莫泰熙说：&ldquo;华文小学的良好口碑，加上近来华文地位水涨船高，使其他族群的小孩也蜂拥报读华小。但华小却一直保持原来的数目，甚至面临关闭的命运。此外，师资、拨款不足也是一个华小长期面对的绊脚石。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;原来，华文小学虽被纳进国家教育的体制内，但政府对于华文小学的投资却极其有限。政府解决不了的问题，华社唯有靠自己想办法，为筹资各尽其力。政府要关闭华小，华人就群起抗议，坚持华小一间都不能少。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;小学毕业以后，华人子弟又要在华文独立中学、国民中学或改制中学之间作出选择，让他们陷入两难之中。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;所谓改制中学，是</span>60<span>年代一些华文独立中学接受政府部分津贴后改制而成，除了每星期各</span>8<span>节的华文和英文课，其他科目的媒介语都是马来文。而在国民中学，华文则作为非正式的选修课，每周只上课一两小时，而且要求必须凑足至少</span>25<span>名学生方能开班。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>以华文作为主要媒介语的独立中学，完全由华人社会自主经营，政府不给予任何津贴。由于独中学校不多，加上学费较为昂贵，许多华人往往只能选择国民中学和改制中学。目前，只有约15</span></span></span><span><span><span>％华人学生在</span></span></span><span><span><span>60</span></span></span><span><span><span>间独立中学就读。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571376}</td><td><p><span><span><span><span><span><span>以民间力量维持数十年的华文独立中学，是华社的骄傲。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;独中颁发的统考文凭受世界各国大学承认，其中不乏顶尖大学，但却独缺大马政府。这也就意味着独中生无法进入国立大学深造，所以他们往往都会到私人学院或国外去升学，毕业后也只能在私人界发展。&rdquo;一名独中老师缓缓道出独中生的难处。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;如此多元而复杂的教育体系，</span> <span>不但难以三言两语向外人说清楚，而且也培育出一群中文程度不同，</span><span>思想、经验、身份认同各异的年轻一代。如今，有的华人完全不谙华文，思想和文化更接近西方；但大部分华人，还是因接受了</span>6<span>年的华文小学教育而拥有不错的华文底子，可以说、读、写华文；也有为数不少的华人，坚持用华文完成每个教育阶段。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;这些在华文教育底下长大的年轻一代，成了保持马来西亚华社文化特色的一批生力军。他们对文化的坚持态度，让老一辈感到骄傲。</span></span></span></span></p><p>&nbsp;</p><ul><li><span><span><span><i><span>马来西亚华人社会凭一己之力，在</span>90</i><i><span>年代成功创立</span>3</i><i><span>所民办非营利大专学府，即南方学院、新纪元学院和韩江学院，为华人学生提供了深造的机会。</span></i></span></span></span></li></ul>",
+                            "type": 12,
+                            "parentid": 2808069,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571376,
+                                    "coursepageid": 2814117,
+                                    "resourceid": 436045,
+                                    "location": "resources/834427/20210421173443352.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/20210421173443352.jpg",
+                                    "contentSize": 74637,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808070,
+                    "content": "华文报刊成华人文化家园",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084645,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814125,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;华文报刊也是马来西亚华社耕耘出来的一朵奇葩，是陪着华人在风雨中走过来的精神良伴。华人对华文报刊的执著，与坚持华文教育的理念是相同的&mdash;&mdash;他们认为每份华文报都是一颗生生不息的中华文化种子，所以长久坚持保护它们。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;目前马来西亚约有</span>16<span>家华文报章，其中《星洲日报》、《南洋商报》、《中国报》、《东方日报》《光华日报》和《光明日报》</span>6<span>家影响较大。据了解，《星洲日报》是发行量最大的报刊，每日发行超过</span>35<span>万份，读者人数逾百万。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;华人人口较少的东马，华文报章却异常发达，两州的华文报章多达十家，如沙巴州有《华侨日报》、《亚洲时报》、《晨报》等；砂拉越则有《国际时报》、《诗华日报》、《中华日报》等，这些报章都只在当地发行，地方色彩浓厚。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;值得一提的是，马来西亚一些华文报纸还发行到柬埔寨、汶莱、印尼、新加坡等周边国家，覆盖层面非常广。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;中文日报多采用横排，版面整齐美观。中文报纸从九十年代中期开始逐渐地从繁体字转换去简体字。有趣的是，如今有报纸的标题还是用繁体字，内容却已全是简体的了。&ldquo;繁简并茂&rdquo;正反映了马来西亚华人对旧文化的不弃对新文化背负起了传承的使命。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;资深报人古玉梁说：&ldquo;一早醒来阅读华文报纸，已是大部分华人每天的生活习惯。报章是华人宣泄心声的平台，及联系华人群体的桥梁，也是华人关注国际的耳目。&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;除了本国新闻，华文报章也特别注重与中国和海外华人相关的新闻。报上的评论也常以中国的时事为论点，因此大马华人对中国的脉动了如指掌。每当从报章中读到一些与中国或华人相关的事件时，无论悲或喜，当地华人都会特别关注，感同身受。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;马来西亚政府规定，所有印刷媒体每年必须重新申请准证，因此中文媒体在言论上受到一定程度的限制。尽管如此，华文媒体仍然守法经营，整体上茁壮健康地成长着，而且读者也还不断地在增长中。&rdquo;对中文报章的发展了若指掌的古玉梁如是道。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;值得一提的是，马来西亚的华文报章除了像其他地区的报纸扮演着新闻报道和服务社会的角色外，也承担起传承中华文化的使命。华文媒体本身也积极主办与传承华人文化有关的各种活动，如《南洋商报》主办十大歌星义演为华教筹款、《星洲日报》主办&ldquo;花踪文学奖&rdquo;等，都对当地华社产生了重大的影响。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;为争夺华人读者市场，华文媒体之间也经常展开各种竞争。但在发扬中华文化、维护华人文化权利的基本立场上，它们却保持着一致。&rdquo; 古玉梁说。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>另外，华文报章的文艺副刊也是培养马华文学作家的主要媒介，可以说，华文文学在马来西亚得以发芽及成长，华文报章是最重要的推手。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571423}</td><td><p><span><span><span><span><span><span>东西马共有十多分中文报章，算得上琳琅满目，充实着华人的精神生活。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马华文学是中国大陆、台湾以外的另一华文文学重镇。它自</span>1919<span>年受中国五四新文学运动的影响而发轫，至今已有九十多年的历史。</span></span></span></span><span><span><span><span>历经几代马来西亚华人作家的努力，马华文学已成为世界华文文学的焦点之一，许多作家如黎紫书、李永平等也都闻名海内外。</span></span></span></span><span><span><span><span>华文文学在马来西亚并非主流文学。它独立于国家体制之外，却拥有着强韧的生命力，数十年来屹立不倒，而且后起一之秀辈出。</span></span></span></span><span><span><span>马华作家协会经过</span></span></span><span><span><span>8</span></span></span><span><span><span>年时间编纂、出版了十册的《马华文学大系》，收录自</span></span></span><span><span><span>1965</span></span></span><span><span><span>年到</span></span></span><span><span><span>1996</span></span></span><span><span><span>年间，大马</span></span></span><span><span><span>400</span></span></span><span><span><span>名作家创作的诗歌、评论、小说、戏剧、散文等，被当地华社誉为马华文化史上的&ldquo;双峰塔&rdquo;。</span></span></span></p><p style=\"text-align: justify;\">&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td style=\"text-align: justify;\">${resource_571424}</td><td><p style=\"text-align: justify;\"><span><span><span><span><span><span>马华文学独具一格，也成为海内外文学研究者的研究方向之一。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;至于电子媒体方面，目前国营和私营电视台都设有华语新闻播报时段，还长时段播放华语、粤语和闽南语的电视剧、娱乐综艺及访谈节目。华人也可通过卫星付费频道，与中国大陆和港台等地区同步收看中文节目。</span></span></span></span><span><span><span><span>此外，当地还拥有</span>3<span>个华语电台和两家华文新闻网站，为华人提供更多的生活资讯和时事知识。</span></span></span></span></p><p style=\"text-align: justify;\">&nbsp;</p><ul><li style=\"text-align: justify;\"><span><span><span><i><span>《光华日报》为全球最长寿的华文报。</span>1910</i><i><span>年孙中山为宣扬革命而在槟城创立，初期为中国革命党人在马来亚最重要的机关报，并曾推动马来亚华人捐款中国协助抗日。目前《光华日报》为北马最畅销的报纸之一。</span></i></span></span></span></li><li style=\"text-align: justify;\"><span><span><span><i><span>马来西亚华社也出了许多出类拔萃、享誉国际的影视艺人和流行音乐歌手，其中就有闯荡好莱坞的巨星杨紫琼，还有广为海内外华人所熟悉的光良、梁静茄、李心洁等歌手影星，还有著名导演蔡明亮等，为世界华人歌影坛增添了缤纷灿烂的色彩。</span></i></span></span></span></li></ul>",
+                            "type": 12,
+                            "parentid": 2808070,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571423,
+                                    "coursepageid": 2814125,
+                                    "resourceid": 436046,
+                                    "location": "resources/834427/202104211736519496.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211736519496.jpg",
+                                    "contentSize": 197640,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571424,
+                                    "coursepageid": 2814125,
+                                    "resourceid": 436047,
+                                    "location": "resources/834427/202104211738108977.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211738108977.jpg",
+                                    "contentSize": 106939,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808071,
+                    "content": "节庆习俗 古风犹存",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084646,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814140,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在强大的教育体系、华团和华文报章作为后盾下，马来西亚华人保存了相当完整的文化传统。他们保留中华传统节日之齐全，往往让人感到惊讶，一些在中国大陆和港台已逐渐消失的节日或习俗，在这里依然流传着。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;从某个角度来说，马来西亚的人民是幸福的，各民族的隆重节日，都列为公共假期，大有普天同庆的味道。春节是马来西亚华人最重要的节日，更有两天的公假和浓浓的佳节气氛。佳节前夕，各商场人头攒动，各个车站都挤满了游子的身影，大街小巷上各种语言的祝贺布条及大红灯笼高挂，热闹欢腾的新春佳节气氛萦绕着整个国家。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;除夕夜里，全家大小都会聚在一起吃团圆饭；过后，长辈还会根据吉时迎接财神。派压岁钱、舞龙舞狮、赌博更是少不了的春节活动。而且我们的庆祝活动将延续到正月十五的元宵节。&rdquo;说及春节的热闹气氛，马来西亚华人不无自豪。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在马来西亚，元宵节也是华人情人节。这一天，除了吃元宵、观灯、赏花、猜谜，未婚男女还会在浪漫的夜色中，彼此抛柑和苹果，寻求如意郎君或温柔女孩。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;春节期间，这里还盛行一种独特的活动叫&ldquo;捞鱼生&rdquo;，寓意新的一年能够&ldquo;捞&rdquo;得风&ldquo;生&rdquo;水起，步步高升。此外，各华团和政党也会举办团拜活动，并开放门户欢迎各族民众登门拜年，促进和谐关系。</span></span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571439}</td><td><p><span><span><span><span><span><span>春节来临，家家户户都会忙着添购礼品与装饰品。</span></span></span></span></span></span></p></td></tr><tr><td>${resource_571440}</td><td><p><span><span><span><span><span><span>春节在马来西亚是个普天同庆的大日子，各族人民都会聚在一起庆祝。</span></span></span></span></span></span></p></td></tr><tr><td>${resource_571441}</td><td><p><span><span><span><span><span><span>在春节前夕，大家小户也会忙着制作传统的应节糕饼。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;除了春节，深受儒家思想影响的当地华人也非常注重孝道，因此清明节祭祖、扫墓的风气历久不衰。&ldquo;老一辈人以前会担心传统节日会逐渐消失，但看到清明节时路上车水马龙的状况，疑虑往往就一消而散。&rdquo;马来西亚华社研究者陈亚才笑着表示。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;此外，端午节、中秋节、中元节、冬至等大大小小的传统节日，在这里不但一个不少，而且华人都会遵循礼俗，欢度佳节，举办盛大的庆祝活动，过得非常热闹。端午节吃粽子赛龙舟、中秋节赏月提灯笼、中元节举办盛大普渡会等，都是这里常年不衰的节日活动。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;随着时间过去，这些节日流传到下一代那里，不但不见消失，气氛反愈加浓厚。</span></span></span></span><span><span><span><span>&ldquo;年轻一代还赋予它们更深厚的文化内涵。例如端午节也是诗人节，文学团体会举办诗歌朗诵会；中秋节则延伸成亲子节，一家人会聚在一起吃月饼、提灯笼，一些华团也会在那天举行&lsquo;传灯&rsquo;文化活动，象征文化源源不息。&rdquo; 陈亚才如是道。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在这里，中华文化所散发出来的生命力源源不绝，民间自动自发、不计回报的力量，不但维持，还创新提升文化，他们的坚持让人感动。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚华人享有宗教自由，可以公开地信奉各种宗教。将近</span>80%<span>的华人同时信奉佛道二教或民间宗教。他们既到佛堂祈福，也在道观拜神，以及在家里祭祀祖先。至今，许多华人家里还摆设着神台，供奉菩萨、关公等神明，神台下面是土地公，旁边则是祖先灵位，厨房里还有灶神坐镇；此外，屋外还有天公神龛，这往往也是识别华人住宅的最佳标志。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在这里，拥有百年历史的寺庙也不少，有些还成了著名的旅游名胜地。马六甲的青云亭始建于</span>17<span>世纪，是马来西亚最早的华人庙宇，迄今香火不断。</span></span></span></span><span><span><span><span>在一些华人集中的地区，如槟城、吉隆坡等，大大小小的寺庙庵观更是随处可见。信徒们除了到庙里祭拜神明、求签问卦，一些庙里头还驻有乩童神婆，为人们消灾解忧。此外，风水占卜、算命看相在这里也非常盛行。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;九皇爷诞为当地华人，尤其是福建人所重视的盛事。每年农历九月初一至初九，信徒们都会坚持不杀生、吃素净口，并拜祭九皇爷来消灾解难。他们还会在海边设立祭坛迎神送神。九皇爷回天之夜，成千上万名信徒穿上洁净的白衣白裤，护送九皇爷绕境游行，场面非常壮观。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;另外，农历正月十九到廿二的柔佛古庙游神，至今也已发展成</span>10<span>万人大游行。整个游神长达八九公里，气氛热烈，充分展现出中华文化历久不衰的旺盛活力。参与抬神游街的大部分是朝气蓬勃的年轻人。他们脱下平时时髦的装束，换上统一的服装，争相抬神，投入的精神不亚于他们的先辈。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>一些台湾有名的宗教团体如佛光山、慈济、法鼓山等也在马来西亚建寺立院，开设道场，而且信徒众多。此外，在这里信奉基督教和天主教的华人也不在少数，约占15%</span></span></span><span><span><span>，这国度西方风气浓郁，加上不少华人是接受英文教育，都是基督教和天主教在此盛行的主要因素。其余的华人有</span></span></span><span><span><span>4</span></span></span><span><span><span>％是穆斯林，</span></span></span><span><span><span>1</span></span></span><span><span><span>％的华人则信奉兴都教或其他宗教。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571442}</td><td><p><span><span><span><span><span><span>青云亭是最早的华人庙宇，翻修后金碧辉煌，至今仍香火不断。</span></span></span></span></span></span></p></td></tr><tr><td>${resource_571443}</td><td><p><span><span><span><span><span><span>每逢重大节日，马来西亚的各大小庙宇通常都香火鼎盛。</span></span></span></span></span></span></p></td></tr></tbody></table><ul><li style=\"text-align: justify;\"><span><span><span><i><span>受西方文化的影响，马来西亚华人的婚礼采取中西合璧的仪式。结婚时新人都穿西式礼服。在家里举行传统的仪式后，才到酒店宴请宾客。在婚礼中，还有一位重要的人物大妗姐，也叫送嫁娘。她是结婚当天新娘的&ldquo;贴身保护人&rdquo;，有时还会担任婚礼的主持人，把婚礼喜庆的气氛推到最高点。</span></i></span></span></span></li><li style=\"text-align: justify;\"><i><span><span><span>&ldquo;拿督公&rdquo;是马来西亚华人的本土地方保护神，神像容貌似马来人、穿着马来民族服装，本土色彩浓厚。</span></span></span><span><span><span>&ldquo;拿督&rdquo;（</span></span></span><span><span><span>Datuk</span></span></span><span><span><span>）即是该国君主册封有功人士的封号，有部分拿督公更有马来名字，如也法、苏勿兰等。此外，拜祭拿督公的祭品也不可有猪肉食品。</span></span></span></i></li></ul>",
+                            "type": 12,
+                            "parentid": 2808071,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571439,
+                                    "coursepageid": 2814140,
+                                    "resourceid": 436048,
+                                    "location": "resources/834427/202104211739563283.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211739563283.jpg",
+                                    "contentSize": 119456,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571440,
+                                    "coursepageid": 2814140,
+                                    "resourceid": 436049,
+                                    "location": "resources/834427/202104211740015475.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211740015475.jpg",
+                                    "contentSize": 124205,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571441,
+                                    "coursepageid": 2814140,
+                                    "resourceid": 436050,
+                                    "location": "resources/834427/202104211740043629.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211740043629.jpg",
+                                    "contentSize": 124821,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571442,
+                                    "coursepageid": 2814140,
+                                    "resourceid": 436051,
+                                    "location": "resources/834427/202104211744324494.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211744324494.jpg",
+                                    "contentSize": 85954,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571443,
+                                    "coursepageid": 2814140,
+                                    "resourceid": 436052,
+                                    "location": "resources/834427/202104211745075775.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211745075775.jpg",
+                                    "contentSize": 59128,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808072,
+                    "content": "文化碰撞 擦出火花",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084647,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814157,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在马来西亚的大街小巷，随处都可以看到马来人或印度人经营的小食档&mdash;&mdash;又称嘛嘛档（</span>mamak<span>），深受华人的喜爱。</span></span></span></span><span><span><span><span>一位华人青年说：&ldquo;嘛嘛档的食物和饮料价格不高，而且营业时间长，有的甚至</span>24<span>小时不休，我们一班好友知己最喜欢夜来聚集在这里长谈。&rdquo;&nbsp;</span></span></span></span><span><span><span>可以说，&ldquo;泡嘛嘛&rdquo;在这里的华社中已经成为一种具有代表性的融合现象。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571459}</td><td><p><span><span><span><span><span><span>嘛嘛档是马来西亚社会特色，也是华人最爱&ldquo;泡&rdquo;的地方。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;事实上，在数十年来与各族共处，接受多元文化的熏染下，这个坚持保留母语和传统文化的华社也有着其开放多元的一面。尤其在衣食住行的日常生活点滴中，既可见他们对传统的坚持，也可感受到他们高度融合的一面。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;华人对自己的文化非常坚持，但也非常接受友族的文化，我们可以说已发展出一个独特的混杂文化，是马来西亚华人独有的。&rdquo;致力于保护槟城古迹的文化人林玉裳说。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>相反地，华人本身的文化也渐渐融入友族的生活和文化当中。&ldquo;例如华人春节会派红包，马来人和印度人也有样学样，只不过他们将之改成该民族的喜庆颜色，变成&lsquo;青包&rsquo;和&lsquo;紫包&rsquo;。&rdquo;陈亚才表示。&ldquo;此外，其他民族也将华人的饮食文化进行改良，变成符合他们文化习俗的美食，如包子、油条等。&rdquo;</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571460}</td><td><p><span><span><span><span><span><span>中华文化也渐被友族所接受，他们写起春联来也有模有样。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;生活在多元族群、籍贯的圈子中，当地华人随时随地都需要准备好几种语言去面对各层面的人事，因此除了华语和本身的方言外，他们也会说马来语及英语，一些人还通晓不少其他籍贯的方言，如福建话、客家话、广东话等。无怪乎许多人都把当地华人称为</span> <span>&ldquo;语言天才&rdquo;。这也造成他们用语混杂的现象&mdash;&mdash;讲华语时，掺夹英语、马来语和方言的词汇和语法，反之亦然。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在一段话中多语并用，听起来固然新鲜有趣，有时候外人却难以理解其意思，不过，这恰恰成了该国华社的一大语言特色，被戏称为&ldquo;罗惹&rdquo;（</span>Rojak<span>，当地特色小吃，类似水果沙拉，在马来语中有&ldquo;大杂烩&rdquo;</span> <span>的意思）。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚的城镇已走上现代化，生活条件不错，衣食住行都令人满意。这里的屋价低廉，多数人都拥有自己的房产；建筑风格各异，有中国式的楼阁庭院，构思美妙；有西式的洋房别墅，恢宏坚实，美观实用；更有中西合璧的建筑，兼具两者所长，蔚为奇观。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚华人对饮食也非常讲究。他们除了保留很多中国南方闽粤的食物，还结合了其他种族的食物特色，创造出各种具有地方特色的食品，花样繁多，如巴生肉骨茶、槟城叻沙、罗惹等，都是叫人垂涎欲滴的美食。此外，华人也善于在饮食中融入南洋风味，如酸辣鱼、马来风光、印度式咖缠、泰式东炎等，都是华人的桌上佳肴。他们也因此养成了无辣不欢的饮食口味，例如香辣的马来椰浆饭、咖哩都成了许多华人的最爱美食。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;当地华人也有着混杂多元的服饰文化。他们衣着轻便随意，加上当地气候炎热，因此除了会在正式场合穿上西服外，</span>T<span>恤、短裤和拖鞋就是街头最常见的打扮。在许多正式与非正式的场合如宴会、各类仪式中，华人身穿马来或印度传统服装的情况也非常普遍；更有不少华人把舒适的纱笼（马来服饰）作为家居服来穿，图个凉快。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在娱乐方面，华人也尽显自身的多元文化优势。他们既可赶场去看西洋乐队表演，也喜欢听本国歌星西蒂</span><span>&middot;</span><span>诺哈丽扎（</span>Siti Nurhaliza<span>）演唱的马来歌曲。他们既爱观看好莱坞动作大片，也喜欢本地著名演员</span> P<span>&middot;</span><span>南利的喜剧小品。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;当然，最让他们感到息息相通的，仍是自己的民族文化。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在这里，粤剧、潮剧等传统戏剧不乏观众；而对于中文影视和流行音乐，华人更是如数家珍。中国大陆、香港或台湾各年代歌星演员的作品，在这块土地上都获得广泛热情的回响。此外，阅读如金庸、余华、张爱玲等中、港、台著名作家的作品，也是许多文艺爱好者的体闲活动之一。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;无论如何，对于通婚，华人却显得相当抗拒。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;的确，当地华人较少和外族人士通婚，一般都保持纯华族血统。尤其是出生即为回教徒的马来人，华人家长通常都不允许子女与他们通婚。因为一旦结为秦晋之好，华人将被强制变成回教徒，这样就等于要放弃自己的文化，甚至中文名字。</span></span></span></span><span><span><span><span>&ldquo;虽然华人可以通过通婚获得&lsquo;土著&rsquo;身份，享有&lsquo;土著&rsquo;的一些特权，但比起要放弃自己的文化，还是得不偿失。&rdquo; 一名华人青年如是说。</span></span></span></span><span><span><span><span>不过，在东马，与原住民通婚的华人就相对较多。一些原住民信奉天主教，因此华人比较容易接受。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>从通婚的多寡情况看来，中华文化显然还是当地华人最为坚持的一环。对深受儒家思想影响的他们来说，忘祖弃宗可是一项严重&ldquo;罪名&rdquo;。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571461}</td><td><p><span><span><span><span><span><span>在一些华人新村和小镇里，还有许多华人传统住宅，在朱漆脱落门梢上可以看到诸如&ldquo;陇西&rdquo;、&ldquo;清河&rdquo;、&ldquo;太原&rdquo;、&ldquo;建丰&rdquo;等这样的姓氏郡号。</span></span></span></span></span></span></p></td></tr></tbody></table><ul><li style=\"text-align: justify;\"><i><span><span><span>当地华人虽已进入第三、四甚至第五代，尽管许多人并没有真正去过自己的祖籍地，但大部分人对自己的祖籍都还很清楚。他们名字英语的拼写方式也是以祖籍地方言发音为标准，因此经常同一个姓有多种不同的拼法，可以轻易从姓氏中认出他们的籍贯。例如，同样是姓陈，广东人拼为&ldquo;</span></span></span><span><span><span>Chan</span></span></span><span><span><span>&rdquo;，客家人拼为&ldquo;</span></span></span><span><span><span>Chin</span></span></span><span><span><span>&rdquo;，福建人拼为&ldquo;</span></span></span><span><span><span>Tan</span></span></span><span><span><span>&rdquo;，福州人拼为&ldquo;</span></span></span><span><span><span>Ting</span></span></span><span><span><span>&rdquo;，潮州人拼为&ldquo;</span></span></span><span><span><span>Tang</span></span></span><span><span><span>&rdquo;。</span></span></span></i></li></ul>",
+                            "type": 12,
+                            "parentid": 2808072,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571459,
+                                    "coursepageid": 2814157,
+                                    "resourceid": 436053,
+                                    "location": "resources/834427/202104211746061692.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211746061692.jpg",
+                                    "contentSize": 70533,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571460,
+                                    "coursepageid": 2814157,
+                                    "resourceid": 436054,
+                                    "location": "resources/834427/202104211747401411.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211747401411.jpg",
+                                    "contentSize": 150417,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571461,
+                                    "coursepageid": 2814157,
+                                    "resourceid": 436055,
+                                    "location": "resources/834427/202104211749583073.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211749583073.jpg",
+                                    "contentSize": 82804,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808073,
+                    "content": "对身份的认同与困惑",
+                    "contentnodeid": 1084640,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084648,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814166,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;因通货膨胀和对生活品质的追求，马来西亚新一代华人开始选择减少生育，家庭结构越来越趋于小家庭式。这促使华人人口日益趋少，人口比例不断下降，华人害怕他们的权益可能会受到侵蚀，因此人口问题成为当地华社的一大忧虑。一些华团为鼓励华人多生育，还曾推出多生有奖的活动。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;这忧虑来自于何？若问起当地华人，往往可以在其言谈中感受到对当地政府的一丝怨叹。当年，华人人口比例也较高，在政、经、文、教等各领域的发展非常顺利。但随着人口的缩小和政治上的无能为力，加上新经济政策的实施，让华人觉得自己作为公民的平等权益遭到侵蚀。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;不过华人也明白，这并非政策问题，而是执行的偏差所造成。&rdquo; 陈亚才说。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在坚持保护自己的语言和文化的当儿，华人也不断遭受到是否爱国的质疑；当地政府的偏差待遇更让年轻华人难以适应及困惑，有些人甚至发出&ldquo;我爱这个国家，奈何国家不爱我&rdquo;的感慨。</span></span></span></span><span><span><span><span>&ldquo;尤其来自独立中学的华人子弟，往往因被国家体制拒绝而有疏离之感，也导致他们和主流社会的鸿沟越来越大。&rdquo; 陈亚才叹道。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;有不少人选择离开，移民他国。如今许多国家如新加坡、台湾、澳洲、英国等都可以找到马来西亚华人的踪影，当中不乏许多精英在各界各业大放异彩；但有更多的人扎根已深，早己视马来西亚为一己家园。对土生土长的华人来说，马来西亚才是他们的家乡，他们热爱这块土地，并效忠于这个国家。只是在那血液里的&ldquo;文化基因&rdquo;，他们无法全然切断。</span></span></span></span><span><span><span><span>他们认为，每个人都有追求本民族文化的权利，而国家和文化认同可以截然分开，更可以并行不悖。</span></span></span></span><span><span><span><o><img alt=\"\" src=\"null\" /><span>马来西亚华人常常强调：&ldquo;我们都是马来西亚人，马来西亚的华人。&rdquo;在他们强调身份之时，也正是他们寻找身份之时。如何在&ldquo;坚持&rdquo;与&ldquo;融合&rdquo;的天秤上寻找平衡点，成了马来西亚华人长期以来念兹在兹的问题与困境。</span></o></span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571492}</td><td style=\"text-align: justify;\"><p><span><span><span><span><span><span>在保留自身语言和文化的同时，如何适时地融入当地社会，是年轻一代华人必须面对的挑战。</span></span></span></span></span></span></p></td></tr></tbody></table>",
+                            "type": 12,
+                            "parentid": 2808073,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571492,
+                                    "coursepageid": 2814166,
+                                    "resourceid": 436056,
+                                    "location": "resources/834427/202104211753021474.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211753021474.jpg",
+                                    "contentSize": 135572,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "itemid": 1084649,
+            "wholepageDTOList": [
+                {
+                    "contentType": 5,
+                    "id": 2808074,
+                    "content": "马来西亚华族族魂——林连玉",
+                    "contentnodeid": 1084649,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084650,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814167,
+                            "content": "<p style=\"text-align: justify;\">&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td style=\"text-align: justify;\">${resource_571493}</td><td><p style=\"text-align: justify;\"><span><span><span><span><span><span>&ldquo;族魂&rdquo;林连玉之墓，每年华社都会举行公祭，让年轻一辈了解他的精神和贡献。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;提起马来西亚华文教育史，就不得不提起林连玉。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;林连玉</span>1901<span>年出生在福建永春，自上世纪</span>20<span>年代便开始投身杏坛教育耕耘，来马后依旧操持故业，为华文教育耕耘。</span></span></span></span><span><span><span><span>他不但将毕生积蓄投入建校，还致力于维护华文教育，主张民族、语言平等，并推动了马来西亚华校教师会总会（教总）和马来西亚华校董事联合会总会（董总）的成立，成为马来西亚华文教育及华人公民权益的代言人。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在出任教总主席的</span>8<span>年间，他面对一次次不利于华教的冲击却毫不退缩，以智慧和勇气保住了早期摇摇欲坠、花果飘零的华文教育。最后，他却被马来西亚政府褫夺公民权并吊销教师注册证。</span></span></span></span><span><span><span><span>林连玉坚信，文化是民族的灵魂，而教育就是民族的文化堡垒。他也曾振臂高呼：&ldquo;我个人的利益早置之度外，为华文教育牺牲永不后悔！&rdquo;</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;他为马来西亚华社树立了一个不可动摇的精神典范，于是大家都尊称他为&ldquo;族魂&rdquo;。</span></span></span></span></p>",
+                            "type": 12,
+                            "parentid": 2808074,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571493,
+                                    "coursepageid": 2814167,
+                                    "resourceid": 436057,
+                                    "location": "resources/834427/202104211753302814.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211753302814.jpg",
+                                    "contentSize": 131585,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "contentType": 5,
+                    "id": 2808075,
+                    "content": "二十四节令鼓和高桩舞狮 马来西亚华人原创",
+                    "contentnodeid": 1084649,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:13",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084651,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814171,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;马来西亚华人不但完好地保留中华文化和习俗传统，而且还不时为之注入新的元素，通过创新把华人文化发扬光大。除了传统的华乐、扯铃、茶道、书法、武术之外，他们最引以为荣的是自创的二十四节令鼓和高桩舞狮。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;在没有二十四节令的国度里所创立的二十四节令鼓，可谓独创之举，也是马来西亚华人文化的智慧再现。其主要创始人是陈徽崇和陈再藩（小曼），宽柔中学二十四节令鼓队则是世界首创的队伍。他们在</span>1988<span>年为新山的&rdquo;端午诗节&rdquo;</span> <span>及吉隆坡天后宫的&ldquo;源之夜&rdquo;演出后，</span>1989<span>为马六甲第六届全国华人文化节的序幕礼做了一次空前的露天演出，更是惊艳全场。</span></span></span></span></p><p style=\"text-align: justify;\"><img alt=\"\" src=\"null\" /><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>二十四节令鼓由二十四面单皮鼓和二十四名鼓手组成，每面鼓代表一个节令，表演融合鼓乐、舞蹈及书法艺术。鼓声、呐喊声与鼓手合为一体，气势振天，让中华文化焕发出无穷的活力，流传不息。</span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;</span>如今，除在原创地有超过5</span></span></span><span><span><span>千名鼓手之外，它也传至新加坡、印尼、中国大陆、台湾甚至澳洲、欧洲等地，享誉全球。特别是在台湾的小学，二十四节令鼓已蔚然成风，甚至还有专门的暑假培训营。</span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571495}</td><td><p><span><span><span><span><span><span>二十四节令鼓气势震天是马来西亚华人的原创。</span></span></span></span></span></span></p></td></tr></tbody></table><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;作为传统中华文化的舞狮舞龙，曾被马来西亚政府明令禁止。&ldquo;他们觉得狮子和龙怪异，要舞就舞马来西亚特产的老虎。&rdquo;华人哭笑不得之余，反而更加坚持维护传统文化，不但在禁令下舞得更多更起劲，还精心专研中国舞狮，创出动作惊险、更具观赏性的高桩舞狮，在世界性的比赛是著名的长胜军。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;如今禁令已除，舞狮不但获得各民族喜爱，在各场合中经常亮相，</span>2007<span>年高桩舞狮更被马来西亚政府列为本国</span>50<span>大国家文物遗产。它也北上中国，获得了国际龙狮总会的表扬，并推广到世界各地。</span></span></span></span></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 840px;\"><tbody><tr><td>${resource_571496}</td><td><p><span><span><span><span><span><span>惊险的高桩舞狮已成为所有马来西亚人民喜爱的活动。</span></span></span></span></span></span></p></td></tr></tbody></table>",
+                            "type": 12,
+                            "parentid": 2808075,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": [
+                                {
+                                    "id": 571495,
+                                    "coursepageid": 2814171,
+                                    "resourceid": 436058,
+                                    "location": "resources/834427/20210421175437454.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/20210421175437454.jpg",
+                                    "contentSize": 86145,
+                                    "isflash": 0
+                                },
+                                {
+                                    "id": 571496,
+                                    "coursepageid": 2814171,
+                                    "resourceid": 436059,
+                                    "location": "resources/834427/202104211755436843.jpg",
+                                    "locationFullurl": "https://asia-obs.ulearning.asia/resources/834427/202104211755436843.jpg",
+                                    "contentSize": 241465,
+                                    "isflash": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "itemid": 1084652,
+            "wholepageDTOList": [
+                {
+                    "contentType": 5,
+                    "id": 2808076,
+                    "content": "结语",
+                    "contentnodeid": 1084652,
+                    "type": 11,
+                    "orderindex": 90000,
+                    "lastmodifydate": "2021-05-03 18:20:14",
+                    "share": 0,
+                    "status": 0,
+                    "relationid": 1084653,
+                    "qrcode": 0,
+                    "coursepageDTOList": [
+                        {
+                            "coursepageDTOid": 2814173,
+                            "content": "<p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;经过了繁衍生息，代代相传，今天的马来西亚华人，早已落地生根，视这片土地为家乡。只不过，对藏在血液里的文化之根，他们并不愿意斩除。他们坚信自己可以用生命把中华文化世代传承下去，就像河要长流、灯要长明一样。</span></span></span></span></p><p style=\"text-align: justify;\"><span><span><span><span>&nbsp; &nbsp; &nbsp; &nbsp;&ldquo;每一条河是一则神话，从遥远的青山流向大海；每一盏灯是一脉香火，把漫长的黑夜渐渐点亮。&rdquo;短短的一首《传灯》，是马来西亚华社的精神之歌，广为华社传唱，歌中字句，道出的是华人心底对文化传承的期望。</span></span></span></span></p>",
+                            "type": 12,
+                            "parentid": 2808076,
+                            "resourceid": 0,
+                            "orderIndex": 0,
+                            "note": "",
+                            "resourceDTOList": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
